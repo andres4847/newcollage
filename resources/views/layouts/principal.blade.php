@@ -1,24 +1,19 @@
 <!DOCTYPE html>
-<!--[if lt IE 10 ]>
-<html lang="en-GB" class="old-ie no-js">
-<![endif]-->
-<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
-<html lang="en-GB" class="no-js">
-<!--<![endif]-->
+<html lang="es" class="no-js">
 
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-    <link rel="profile" href="http://gmpg.org/xfn/11" />
-    <link rel="pingback" href="http://the7.io/marketing-agency/xmlrpc.php" />
-    <title>The7 Marketing Agency &#8211; perfect sollution for marketing or digital agency</title>
-    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-    <link rel="alternate" type="application/rss+xml" title="The7 Marketing Agency &raquo; Feed" href="http://the7.io/marketing-agency/feed/" />
+    {{-- <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <link rel="pingback" href="http://the7.io/marketing-agency/xmlrpc.php" /> --}}
+    <title>NewCollage; Indumentaria de Egresados</title>
+    {{-- <link rel='dns-prefetch' href='//fonts.googleapis.com' /> --}}
+    {{-- <link rel="alternate" type="application/rss+xml" title="The7 Marketing Agency &raquo; Feed" href="http://the7.io/marketing-agency/feed/" />
     <link rel="alternate" type="application/rss+xml" title="The7 Marketing Agency &raquo; Comments Feed" href="http://the7.io/marketing-agency/comments/feed/" />
-    <link rel='stylesheet' id='rs-plugin-settings-css' href='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.6.2' type='text/css' media='all' />
-    <style id='rs-plugin-settings-inline-css' type='text/css'>
+    <link rel='stylesheet' id='rs-plugin-settings-css' href='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.6.2' type='text/css' media='all' /> --}}
+    {{-- <style id='rs-plugin-settings-inline-css' type='text/css'>
         #rs-demo-id {}
-    </style>
+    </style> --}}
      <link rel='stylesheet' id='js_composer_front-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/js_composer/js_composer_front_custom.css?ver=5.4.2' type='text/css' media='all' /> 
      <link rel='stylesheet' id='dt-web-fonts-css' href='http://fonts.googleapis.com/css?family=Roboto%3A400%2C600%2C700%7CRoboto+Condensed%3A400%2C600%2C700%7COpen+Sans%3A400%2C600%2C700&#038;ver=4.8.2' type='text/css' media='all' /> 
     <link rel='stylesheet' id='dt-main-css' href='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/css/main.min.css?ver=5.6.1.1' type='text/css' media='all' />
@@ -98,29 +93,26 @@
             background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='%23e41658'%3E   %3Cpath transform='translate(2)' d='M0 12 V20 H4 V12z'%3E      %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(8)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.2' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(14)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.4' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(20)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.6' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(26)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.8' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E %3C/svg%3E");
         }
     </style>
-    <!--[if lt IE 10]>
-<link rel='stylesheet' id='dt-old-ie-css'  href='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/css/old-ie.min.css?ver=5.6.1.1' type='text/css' media='all' />
-<![endif]-->
-    <link rel='stylesheet' id='dt-awsome-fonts-css' href='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/fonts/FontAwesome/css/font-awesome.min.css?ver=5.6.1.1' type='text/css' media='all' />
+    {{-- <link rel='stylesheet' id='dt-awsome-fonts-css' href='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/fonts/FontAwesome/css/font-awesome.min.css?ver=5.6.1.1' type='text/css' media='all' />
     <link rel='stylesheet' id='dt-fontello-css' href='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/fonts/fontello/css/fontello.min.css?ver=5.6.1.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='dt-arrow-icons-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/style.min.css?ver=5.6.1.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='the7pt-static-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/themes/dt-the7/css/post-type.css?ver=5.6.1.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='dt-custom-old-ie-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/the7-css/custom-old-ie.css?ver=e80e126312bf' type='text/css' media='all' />
+    <link rel='stylesheet' id='dt-arrow-icons-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/style.min.css?ver=5.6.1.1' type='text/css' media='all' /> --}}
+    {{-- <link rel='stylesheet' id='the7pt-static-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/themes/dt-the7/css/post-type.css?ver=5.6.1.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='dt-custom-old-ie-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/the7-css/custom-old-ie.css?ver=e80e126312bf' type='text/css' media='all' /> --}}
     <link rel='stylesheet' id='dt-custom-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/the7-css/custom.css?ver=e80e126312bf' type='text/css' media='all' />
     <link rel='stylesheet' id='dt-media-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/the7-css/media.css?ver=e80e126312bf' type='text/css' media='all' />
-    <link rel='stylesheet' id='the7pt.less-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/the7-css/post-type-dynamic.css?ver=e80e126312bf' type='text/css' media='all' />
-    <link rel='stylesheet' id='dt-demostand-plugin-styles-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/plugins/dt-demostand/assets/public.css?ver=2.3.3' type='text/css' media='all' />
-    <link rel='stylesheet' id='style-css' href='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/style.css?ver=5.6.1.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='bsf-icomoon-feather-24x24-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/smile_fonts/icomoon-feather-24x24/icomoon-feather-24x24.css?ver=4.8.2' type='text/css' media='all' />
-    <link rel='stylesheet' id='bsf-icomoon-free-social-contact-16x16-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/smile_fonts/icomoon-free-social-contact-16x16/icomoon-free-social-contact-16x16.css?ver=4.8.2' type='text/css' media='all' />
+    {{-- <link rel='stylesheet' id='the7pt.less-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/the7-css/post-type-dynamic.css?ver=e80e126312bf' type='text/css' media='all' /> --}}
+    {{-- <link rel='stylesheet' id='dt-demostand-plugin-styles-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/plugins/dt-demostand/assets/public.css?ver=2.3.3' type='text/css' media='all' />
+    <link rel='stylesheet' id='style-css' href='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/style.css?ver=5.6.1.1' type='text/css' media='all' /> --}}
+    {{-- <link rel='stylesheet' id='bsf-icomoon-feather-24x24-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/smile_fonts/icomoon-feather-24x24/icomoon-feather-24x24.css?ver=4.8.2' type='text/css' media='all' />
+    <link rel='stylesheet' id='bsf-icomoon-free-social-contact-16x16-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/smile_fonts/icomoon-free-social-contact-16x16/icomoon-free-social-contact-16x16.css?ver=4.8.2' type='text/css' media='all' /> --}}
     <link rel='stylesheet' id='ultimate-google-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto+Condensed|' type='text/css' media='all' />
-    <link rel='stylesheet' id='ultimate-style-min-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ultimate.min.css?ver=3.16.18' type='text/css' media='all' />
+    <link rel='stylesheet' id='ultimate-style-min-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ultimate.min.css?ver=3.16.18' type='text/css' media='all' /> 
     <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-    <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-    <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.6.2'></script>
-    <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.6.2'></script>
-    <script type='text/javascript'>
-        /* <![CDATA[ */
+    {{-- <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> --}}
+    {{-- <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.6.2'></script>
+    <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.6.2'></script> --}}
+    {{-- <script type='text/javascript'>
+      
         var dtLocal = {
             "themeUrl": "http:\/\/the7.io\/marketing-agency\/wp-content\/themes\/dt-the7",
             "passText": "To view this protected post, enter the password below:",
@@ -194,27 +186,26 @@
             },
             "overlayOpacity": "85"
         };
-        /* ]]> */
-    </script>
-    <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=5.6.1.1'></script>
+       
+    </script> --}}
+    {{-- <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=5.6.1.1'></script> --}}
     <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jquery-ui.min.js?ver=3.16.18'></script>
     <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
     <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate.min.js?ver=3.16.18'></script>
-    <link rel='https://api.w.org/' href='http://the7.io/marketing-agency/wp-json/' />
+    {{-- <link rel='https://api.w.org/' href='http://the7.io/marketing-agency/wp-json/' />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://the7.io/marketing-agency/xmlrpc.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-includes/wlwmanifest.xml" />
-    <meta name="generator" content="WordPress 4.8.2" />
-    <link rel="canonical" href="http://the7.io/marketing-agency/" />
-    <link rel='shortlink' href='http://the7.io/marketing-agency/' />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-includes/wlwmanifest.xml" /> --}}
+
+    <link rel="canonical" href="www.newcollage.com.ar" />
+  {{--    <link rel='shortlink' href='http://the7.io/marketing-agency/' />
     <link rel="alternate" type="application/json+oembed" href="http://the7.io/marketing-agency/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthe7.io%2Fmarketing-agency%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="http://the7.io/marketing-agency/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthe7.io%2Fmarketing-agency%2F&#038;format=xml" />
-    <meta property="og:site_name" content="The7 Marketing Agency" />
+    <link rel="alternate" type="text/xml+oembed" href="http://the7.io/marketing-agency/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fthe7.io%2Fmarketing-agency%2F&#038;format=xml" /> --}}
+    <meta property="og:site_name" content="NewCollage" />
     <meta property="og:title" content="Home" />
-    <meta property="og:url" content="http://the7.io/marketing-agency/" />
+    <meta property="og:url" content="www.newcollage.com.ar" />
     <meta property="og:type" content="website" />
-    <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
-    <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
-    <meta name="generator" content="Powered by Slider Revolution 5.4.6.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+    <meta name="generator" content="Andres Silva" />
+
     <script type="text/javascript">
         document.addEventListener("DOMContentLoaded", function(event) {
             var $load = document.getElementById("load");
@@ -523,7 +514,8 @@
         <div class="masthead inline-header right widgets full-height surround shadow-decoration dt-parent-menu-clickable show-device-logo show-mobile-logo" role="banner">
 
             <div class="top-bar solid-bg">
-                <div class="left-widgets mini-widgets"><span class="mini-contacts phone show-on-desktop near-logo-first-switch in-menu-second-switch">011 322 44 56</span><span class="mini-contacts skype show-on-desktop in-menu-first-switch in-menu-second-switch">Seven_Marketing</span><span class="mini-contacts email show-on-desktop in-menu-first-switch in-menu-second-switch">sales@yoursite.com</span></div>
+                <div class="left-widgets mini-widgets">
+                <span class="mini-contacts phone show-on-desktop near-logo-first-switch in-menu-second-switch">011 322 44 56</span><span class="mini-contacts skype show-on-desktop in-menu-first-switch in-menu-second-switch">Seven_Marketing</span><span class="mini-contacts email show-on-desktop in-menu-first-switch in-menu-second-switch">sales@yoursite.com</span></div>
                 <div class="right-widgets mini-widgets">
                     <div class="soc-ico show-on-desktop near-logo-first-switch in-menu-second-switch accent-bg disabled-border border-off hover-custom-bg hover-disabled-border  hover-border-off"><a title="Facebook" href="https://www.facebook.com/WordPress.Premium.Theme/" target="_blank" class="facebook"><span class="soc-font-icon"></span><span class="screen-reader-text">Facebook</span></a><a title="Twitter" href="https://twitter.com/premium_theme" target="_blank" class="twitter"><span class="soc-font-icon"></span><span class="screen-reader-text">Twitter</span></a><a title="Pinterest" href="https://www.pinterest.com/dreamtheme/" target="_blank" class="pinterest"><span class="soc-font-icon"></span><span class="screen-reader-text">Pinterest</span></a><a title="YouTube" href="https://www.youtube.com" target="_blank" class="you-tube"><span class="soc-font-icon"></span><span class="screen-reader-text">YouTube</span></a><a title="Instagram" href="https://www.instagram.com/dream_theme_photo/" target="_blank" class="instagram"><span class="soc-font-icon"></span><span class="screen-reader-text">Instagram</span></a></div>
                 </div>
@@ -532,13 +524,13 @@
             <header class="header-bar">
 
                 <div class="branding">
-                    <div id="site-title" class="assistive-text">The7 Marketing Agency</div>
-                        <div id="site-description" class="assistive-text">perfect sollution for marketing or digital agency</div>
+                    <div id="site-title" class="assistive-text">NewCoallage</div>
+                        <div id="site-description" class="assistive-text">Indumentaria de Egresados</div>
                           <a href="http://the7.io/marketing-agency/">
                             <img class=" preload-me"
-                            src="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2017/04/lt.png" 
-                            srcset="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2017/04/lt.png 240w,
-                            http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2017/04/lt-hd.png 480w" 
+                            src="{{ asset('/images/logo_240.png') }}" 
+                            srcset="{{ asset('/images/logo_240.png') }} 240w,
+                            {{ asset('/images/logo_480.png') }} 480w" 
                             width="240" height="52"   sizes="240px" alt="The7 Marketing Agency" />
                             <img class="mobile-logo preload-me"
                             src="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2017/04/l-m.png" 
@@ -580,7 +572,7 @@
                         </a>
                     </li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1298">
-                        <a href='http://the7.io/marketing-agency/blog/' data-level='1'>
+                        <a href="{{ action('ContactController@index') }}" data-level='1'>
                             <span class="menu-item-text"><span class="menu-text">Contactanos</span></span>
                         </a>
                     </li>
@@ -610,6 +602,116 @@
             </ul>
             <div class='mobile-mini-widgets-in-menu'></div>
         </div>
+
+        @yield('content')
+
+        <!-- !Footer -->
+        <footer id="footer" class="footer solid-bg">
+            <div class="wf-wrap">
+                <div class="wf-container-footer">
+                    <div class="wf-container">
+                        <section id="presscore-blog-posts-2" class="widget widget_presscore-blog-posts wf-cell wf-1-3">
+                            <div class="widget-title">Recent Articles</div>
+                            <ul class="recent-posts">
+                                <li>
+                                    <article class="post-format-standard">
+                                        <div class="wf-td"><a class="alignleft post-rollover layzr-bg" href="http://the7.io/marketing-agency/2016/02/10/sed-rhoncus-ullamcorper-mauris/"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%2080%2060&#39;%2F%3E" data-src="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-010-80x60.jpg" data-srcset="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-010-80x60.jpg 80w, http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-010-160x120.jpg 160w" width="80" height="60"  alt="" /></a></div>
+                                        <div class="post-content"><a href="http://the7.io/marketing-agency/2016/02/10/sed-rhoncus-ullamcorper-mauris/">Sed rhoncus &#8211; ullamcorper mauris</a><br /><time class="text-secondary" datetime="2016-02-10T09:41:22+00:00">10th February 2016</time></div>
+                                    </article>
+                                </li>
+                                <li>
+                                    <article class="post-format-standard">
+                                        <div class="wf-td"><a class="alignleft post-rollover layzr-bg" href="http://the7.io/marketing-agency/2016/02/08/praesent-eleifend-ipsum-et-bibendum/"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%2080%2060&#39;%2F%3E" data-src="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-031-80x60.jpg" data-srcset="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-031-80x60.jpg 80w, http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-031-160x120.jpg 160w" width="80" height="60"  alt="" /></a></div>
+                                        <div class="post-content"><a href="http://the7.io/marketing-agency/2016/02/08/praesent-eleifend-ipsum-et-bibendum/">Praesent eleifend ipsum et bibendum</a><br /><time class="text-secondary" datetime="2016-02-08T15:37:27+00:00">8th February 2016</time></div>
+                                    </article>
+                                </li>
+                                <li>
+                                    <article class="post-format-standard">
+                                        <div class="wf-td"><a class="alignleft post-rollover layzr-bg" href="http://the7.io/marketing-agency/2016/02/05/lorem-ipsum-dolor-amet/"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%2080%2060&#39;%2F%3E" data-src="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-020-80x60.jpg" data-srcset="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-020-80x60.jpg 80w, http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-020-160x120.jpg 160w" width="80" height="60"  alt="" /></a></div>
+                                        <div class="post-content"><a href="http://the7.io/marketing-agency/2016/02/05/lorem-ipsum-dolor-amet/">Lorem ipsum dolor amet</a><br /><time class="text-secondary" datetime="2016-02-05T19:13:20+00:00">5th February 2016</time></div>
+                                    </article>
+                                </li>
+                            </ul>
+                        </section>
+                        <section id="presscore-portfolio-3" class="widget widget_presscore-portfolio wf-cell wf-1-3">
+                            <div class="widget-title">Recent Projects</div>
+                            {{-- <div class="instagram-photos" data-image-max-width="140">
+                                <a href="http://the7.io/marketing-agency/project/ultrices-pulvinar-nislos/" title="Ultrices pulvinar nislos" class="post-rollover layzr-bg"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%20140%20140&#39;%2F%3E" data-src="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-006-140x140.jpg" data-srcset="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-006-140x140.jpg 140w, http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-006-280x280.jpg 280w" width="140" height="140"  alt="" /></a>
+
+                                <a href="http://the7.io/marketing-agency/project/consectetur-euismod-odio/" title="Consectetur euismod odio" class="post-rollover layzr-bg"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%20140%20140&#39;%2F%3E" data-src="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-007-140x140.jpg" data-srcset="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-007-140x140.jpg 140w, http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-007-280x280.jpg 280w" width="140" height="140"  alt="" /></a>
+
+                                <a href="http://the7.io/marketing-agency/project/sapien-non-nisi-posuere/" title="Sapien non nisi posuere" class="post-rollover layzr-bg"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%20140%20140&#39;%2F%3E" data-src="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-013-140x140.jpg" data-srcset="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-013-140x140.jpg 140w, http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-013-280x280.jpg 280w" width="140" height="140"  alt="" /></a>
+
+                                <a href="http://the7.io/marketing-agency/project/nascetur-ridiculus-mus/" title="Nascetur ridiculus mus" class="post-rollover layzr-bg"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%20140%20140&#39;%2F%3E" data-src="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-010-140x140.jpg" data-srcset="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-010-140x140.jpg 140w, http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-010-280x280.jpg 280w" width="140" height="140"  alt="" /></a>
+
+                                <a href="http://the7.io/marketing-agency/project/quisque-lorem-quis/" title="Quisque lorem quis" class="post-rollover layzr-bg"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%20140%20140&#39;%2F%3E" data-src="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-011-140x140.jpg" data-srcset="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-011-140x140.jpg 140w, http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-011-280x280.jpg 280w" width="140" height="140"  alt="" /></a>
+
+                                <a href="http://the7.io/marketing-agency/project/glavrida-for-amet/" title="Glavrida for amet" class="post-rollover layzr-bg"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%20140%20140&#39;%2F%3E" data-src="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-005-140x140.jpg" data-srcset="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-005-140x140.jpg 140w, http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2016/02/mark-005-280x280.jpg 280w" width="140" height="140"  alt="" /></a>
+                            </div> --}}
+                        </section>
+                        <section id="presscore-contact-form-widget-2" class="widget widget_presscore-contact-form-widget wf-cell wf-1-3">
+                            <div class="widget-title">Get in Touch!</div>
+                            <form class="contact-form dt-form" action="/" method="post">
+                                <input type="hidden" name="widget_id" value="presscore-contact-form-widget-2" />
+                                <input type="hidden" name="send_message" value="" />
+                                <div class="form-fields"><span class="form-name">
+                                     <label class="assistive-text">Name *</label>
+                                     <input type="text" class="validate[required]" placeholder="Name *" name="name" value="" aria-required="true">
+                                      </span><span class="form-mail"><label class="assistive-text">E-mail *</label>
+                                       <input type="text" class="validate[required,custom[email]]" placeholder="E-mail *" name="email" value="" aria-required="true">
+                                       </span>
+                                 </div>
+                                 <span class="form-message">
+                              <label class="assistive-text">Message</label><textarea placeholder="Message" name="message" rows="3" aria-required="false"></textarea>
+                                </span>
+                                <p><a href="#" class="dt-btn dt-btn-m dt-btn-submit" rel="nofollow"><span>Submit</span></a><input class="assistive-text" type="submit" value="submit"></p>
+                            </form>
+                        </section>
+                    </div>
+                    <!-- .wf-container -->
+                </div>
+                <!-- .wf-container-footer -->
+            </div>
+            <!-- .wf-wrap -->
+
+            <!-- !Bottom-bar -->
+            <div id="bottom-bar" class="solid-bg" role="contentinfo">
+                <div class="wf-wrap">
+                    <div class="wf-container-bottom">
+                        <div class="wf-table wf-mobile-collapsed">
+
+                            <div id="branding-bottom" class="wf-td"><a href="http://the7.io/marketing-agency/"><img class=" preload-me" src="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2017/04/lg-bot.png" srcset="http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2017/04/lg-bot.png 30w, http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/2017/04/lg-bot-hd.png 200w" width="30" height="30"   sizes="30px" alt="The7 Marketing Agency" /></a></div>
+                            <div class="wf-td">
+                                <div class="wf-float-left">
+
+                                    <i class="fa fa-copyright"></i> Seven Media 2016-2017
+                                </div>
+                            </div>
+
+                            <div class="wf-td">
+
+                                <div class="mini-nav wf-float-right">
+                                    <ul id="bottom-menu">
+                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1706 first"><a href='http://the7.io/marketing-agency/services/service/' data-level='1'><span class="menu-item-text"><span class="menu-text">Brand Management</span></span></a></li>
+                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1707"><a href='http://the7.io/marketing-agency/services/service/' data-level='1'><span class="menu-item-text"><span class="menu-text">Creative Services</span></span></a></li>
+                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1832"><a href='http://the7.io/marketing-agency/services/service/' data-level='1'><span class="menu-item-text"><span class="menu-text">Marketing Management</span></span></a></li>
+                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1708"><a href='http://the7.io/marketing-agency/services/service/' data-level='1'><span class="menu-item-text"><span class="menu-text">SEO &#038; SMM</span></span></a></li>
+                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1709"><a href='http://the7.io/marketing-agency/services/service/' data-level='1'><span class="menu-item-text"><span class="menu-text">Web Design</span></span></a></li>
+                                    </ul>
+                                    <div class="menu-select"><span class="customSelect1"><span class="customSelectInner">Services</span></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- .wf-container-bottom -->
+                </div>
+                <!-- .wf-wrap -->
+            </div>
+            <!-- #bottom-bar -->
+        </footer>
+        <!-- #footer -->
     </div>
 
     <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/js/main.min.js?ver=5.6.1.1'></script>
@@ -647,6 +749,7 @@
                 <div class="pswp__item"></div>
             </div>
 
+
             <div class="pswp__ui pswp__ui--hidden">
                 <div class="pswp__top-bar">
                     <div class="pswp__counter"></div>
@@ -666,9 +769,9 @@
                     <div class="pswp__share-tooltip"></div>
                 </div>
                 <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
-            </button>
-                <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
-            </button>
+                </button>
+                    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+                </button>
                 <div class="pswp__caption">
                     <div class="pswp__caption__center"></div>
                 </div>
