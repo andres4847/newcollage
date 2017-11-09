@@ -11,8 +11,11 @@
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+// Route::get('/', function () {
+//     return view('index');
+// });
 
+
+Route::get('/', 'HomeController@index');
 Route::get('/contactanos', 'ContactController@index');
+Route::get('/nosotros', 'AboutController@index');

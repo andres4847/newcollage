@@ -10,6 +10,10 @@
 
 @section('content')
 
+<!-- Titulo -->
+@include('layouts.partial.titulo',['titulo'=>'Contactanos']) 
+
+
 <div id="main" class="sidebar-none sidebar-divider-off" style="padding-top:0px; padding-bottom:0px;">
     <div class="main-gradient"></div>
     <div class="wf-wrap">

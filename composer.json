@@ -21,7 +21,10 @@
         ],
         "psr-4": {
             "newcollage\\": "app/"
-        }
+        },
+         "files": [
+        "app/helpers/general.php" 
+         ]
     },
     "autoload-dev": {
         "psr-4": {
