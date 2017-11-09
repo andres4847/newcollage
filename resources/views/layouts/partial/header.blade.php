@@ -51,7 +51,7 @@
         </li>
 
         <!-- current-menu-item page_item page-item-53 current_page_item menu-item-1299 act -->
-        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1298 {!!classActivePath('Contact.index')!!}">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1298 ">
             <a href="{{ action('ContactController@index') }}" data-level='1'>
                     <span class="menu-item-text"><span class="menu-text">Contactanos</span></span>
                 </a>

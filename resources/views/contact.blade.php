@@ -5,6 +5,38 @@
 
 @section('page-styles')
 
+    <style type="text/css" data-type="vc_shortcodes-custom-css">
+    .vc_custom_1491379839707{
+    padding-top: 70px!important;padding-bottom: 70px!important;background-color: #ffffff!important;
+    }.vc_custom_1491742857520{
+    padding-top: 10px!important;padding-bottom: 10px!important;
+    }.vc_custom_1479032696835{
+    padding-bottom: 40px!important;
+    }.vc_custom_1479032888299{
+    padding-bottom: 35px!important;
+    }.vc_custom_1479032916919{
+    padding-bottom: 35px!important;
+    }.vc_custom_1479032922138{
+    padding-bottom: 35px!important;
+    }.vc_custom_1479032629977{
+    padding-bottom: 40px!important;
+    }.vc_custom_1479056947997{
+    padding-top: 50px!important;
+    }.vc_custom_1491380326495{
+    padding-bottom: 50px!important;
+    }.vc_custom_1491380320678{
+    padding-bottom: 50px!important;
+    }.vc_custom_1491380312947{
+    padding-bottom: 50px!important;
+    }.vc_custom_1491757904050{
+    margin-top: 0px!important;margin-right: 0px!important;margin-bottom: 0px!important;margin-left: 0px!important;padding-top: 0px!important;padding-right: 0px!important;padding-bottom: 20px!important;padding-left: 0px!important;
+    }.vc_custom_1491757981051{
+    margin-top: 0px!important;margin-right: 0px!important;margin-bottom: 0px!important;margin-left: 0px!important;padding-top: 0px!important;padding-right: 0px!important;padding-bottom: 20px!important;padding-left: 0px!important;
+    }.vc_custom_1491757965040{
+    margin-top: 0px!important;margin-right: 0px!important;margin-bottom: 0px!important;margin-left: 0px!important;padding-top: 0px!important;padding-right: 0px!important;padding-bottom: 20px!important;padding-left: 0px!important;
+    }
+    </style>
+
 @endsection
 
 
