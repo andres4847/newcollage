@@ -98,7 +98,7 @@
     <link rel='stylesheet' id='dt-arrow-icons-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/style.min.css?ver=5.6.1.1' type='text/css' media='all' /> --}}
     {{-- <link rel='stylesheet' id='the7pt-static-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/themes/dt-the7/css/post-type.css?ver=5.6.1.1' type='text/css' media='all' />
     <link rel='stylesheet' id='dt-custom-old-ie-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/the7-css/custom-old-ie.css?ver=e80e126312bf' type='text/css' media='all' /> --}}
-    <link rel='stylesheet' id='dt-custom-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/the7-css/custom.css?ver=e80e126312bf' type='text/css' media='all' />
+    {{-- <link rel='stylesheet' id='dt-custom-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/the7-css/custom.css?ver=e80e126312bf' type='text/css' media='all' /> --}}
     <link rel='stylesheet' id='dt-media-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/the7-css/media.css?ver=e80e126312bf' type='text/css' media='all' />
     {{-- <link rel='stylesheet' id='the7pt.less-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/uploads/sites/12/the7-css/post-type-dynamic.css?ver=e80e126312bf' type='text/css' media='all' /> --}}
     {{-- <link rel='stylesheet' id='dt-demostand-plugin-styles-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/plugins/dt-demostand/assets/public.css?ver=2.3.3' type='text/css' media='all' />
@@ -108,10 +108,12 @@
     <link rel='stylesheet' id='ultimate-google-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto+Condensed|' type='text/css' media='all' />
     <link rel='stylesheet' id='ultimate-style-min-css' href='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ultimate.min.css?ver=3.16.18' type='text/css' media='all' /> 
     <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-    {{-- <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> --}}
-    {{-- <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.6.2'></script>
-    <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.6.2'></script> --}}
-    {{-- <script type='text/javascript'>
+    <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> 
+    <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.6.2'></script>
+    <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.6.2'></script> 
+    <script type='text/javascript'>
+
+     {{-- Sin esto mobile no funciona.  --}}
       
         var dtLocal = {
             "themeUrl": "http:\/\/the7.io\/marketing-agency\/wp-content\/themes\/dt-the7",
@@ -187,7 +189,7 @@
             "overlayOpacity": "85"
         };
        
-    </script> --}}
+    </script>
     {{-- <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=5.6.1.1'></script> --}}
     <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/marketing-agency/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jquery-ui.min.js?ver=3.16.18'></script>
     <script type='text/javascript' src='http://the7io.dreamthemecom.netdna-cdn.com/main/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>

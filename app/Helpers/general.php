@@ -1,17 +1,11 @@
+<?php
+
+
+
  
- <?php
- 
-if (!function_exists('classActivePath')) {
-    function classActivePath($path)
+if (!function_exists('classActiveRoute')) {
+    function classActiveRoute($route)
     {
-        $path = explode('.', $path);
-        $segment = 1;
-        foreach($path as $p) {
-            if((request()->segment($segment) == $p) == false) {
-                return '';
-            }
-            $segment++;
-        }
-        return ' active';
+        return Route::current()->getName() == $route ? 'act' : '';            
     }
 }

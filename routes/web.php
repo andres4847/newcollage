@@ -16,6 +16,6 @@
 // });
 
 
-Route::get('/', 'HomeController@index');
-Route::get('/contactanos', 'ContactController@index');
-Route::get('/nosotros', 'AboutController@index');
+Route::get('/', 'HomeController@index')->name('home');
+Route::get('/contactanos', 'ContactController@index')->name('contact');
+Route::get('/nosotros', 'AboutController@index')->name('about');
