@@ -1,6 +1,36 @@
 <header class="header-bar">
 
-    <div class="branding">
+<nav class="navbar navbar-default main-nav">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand main-brand" href="#">
+        <img alt="Brand" src="/images/logo_240.png">
+      </a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">     
+      <ul class="nav navbar-nav navbar-right main-nav">
+        <li class="act"><a href="#">Home</a></li>   
+        <li><a href="#">Productos</a></li>   
+        <li><a href="#">Créa</a></li>   
+        <li><a href="#">Nosotros</a></li>  
+        <li><a href="#">Egresaditos</a></li> 
+        <li><a href="#">Inspirate</a></li> 
+        <li><a href="#">Contactanos</a></li>  
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+    {{-- <div class="branding">
         <div id="site-title" class="assistive-text">NewCoallage</div>
         <div id="site-description" class="assistive-text">Indumentaria de Egresados</div>
         <a href="{{ route('home') }}">
@@ -55,7 +85,7 @@
                     <span class="menu-item-text"><span class="menu-text">Contactanos</span></span>
                 </a>
         </li>
-    </ul>
+    </ul> --}}
 
 </header>
 
