@@ -88,6 +88,35 @@
 /*topbar*/
 
 .top-bar {
+  background: #FFF;
+  padding: 6px;
+  font-family: DINNextLTPro-Bold;
+  margin: auto;
+  color: #000;
+}
+
+.top-bar .top-contact{
+  font-size: 14px;
+  margin-left: 4px;
+  margin-right: 22px;
+}
+
+.left-widgets {
+  float:left;
+}
+
+.right-widgets {
+  float: right;
+}
+
+.top-phone {
+  margin-right: 4px;
+}
+.top-email {
+  margin-right: 4px;
+}
+
+/* .top-bar {
     position: relative;
     display: flex;
     margin-top: 0;
@@ -139,6 +168,6 @@
 .mini-contacts,.mini-nav {
     position: relative;
     vertical-align: middle
-}
+} */
 
 
