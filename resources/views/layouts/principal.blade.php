@@ -8,8 +8,11 @@
 
     <title>NewCollage; Indumentaria de Egresados</title>
 
-    {!! Html::style("css/app.css") !!}  
+    {!! Html::style("css/bootstrap.min.css") !!}  
+    {!! Html::style("css/bootstrap-social.css") !!}  
+    {!! Html::style("css/font-awesome.min.css") !!}  
     {!! Html::style("css/custom.css") !!}  
+
    
     @yield('page-styles')
 
@@ -29,8 +32,9 @@
         </footer>
         <!-- #footer --> --}}
 
-  
-    {!! Html::script("js/app.js") !!}  
+    {!! Html::script("js/jquery.min.js") !!}  
+    {!! Html::script("js/bootstrap.min.js") !!}  
+
   
 </body>
 

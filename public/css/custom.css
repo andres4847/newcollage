@@ -95,6 +95,11 @@
   color: #000;
 }
 
+.top-bar .container {
+  display: flex; 
+  align-items: center;
+}
+
 .top-bar .top-contact{
   font-size: 14px;
   margin-left: 4px;
@@ -102,17 +107,25 @@
 }
 
 .left-widgets {
-  float:left;
+  /*float:left;*/
+  width: 100%;
 }
 
 .right-widgets {
-  float: right;
+  /*float: right;*/
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .top-phone {
   margin-right: 4px;
 }
 .top-email {
+  margin-right: 4px;
+}
+
+.btn-facebook{
   margin-right: 4px;
 }
 

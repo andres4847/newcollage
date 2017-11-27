@@ -6,11 +6,11 @@
             <span class="glyphicon glyphicon-envelope"></span> <span class="top-contact"> contacto@newcollage.com.ar</span>
         </div> 
         <div class="right-widgets">
-            <a title="Facebook" href="https://www.facebook.com/WordPress.Premium.Theme/" target="_blank" class="facebook" style="visibility: visible;">
-                <span class="soc-font-icon"></span>
-                <span class="screen-reader-text">Facebook</span>
+            <a title="Facebook" target="_blank" class="btn btn-social-icon btn-facebook" >
+                <span class="fa fa-facebook"></span>
+                {{-- <span class="screen-reader-text">Facebook</span> --}}
             </a>
-            <a title="Twitter" href="https://twitter.com/premium_theme" target="_blank" class="twitter" style="visibility: visible;">
+            {{-- <a title="Twitter" href="https://twitter.com/premium_theme" target="_blank" class="twitter" style="visibility: visible;">
                 <span class="soc-font-icon"></span><span class="screen-reader-text">Twitter
                 </span>
             </a>
@@ -21,10 +21,9 @@
             <a title="YouTube" href="https://www.youtube.com" target="_blank" class="you-tube" style="visibility: visible;">
                 <span class="soc-font-icon"></span>
                 <span class="screen-reader-text">YouTube</span>
-            </a>
-            <a title="Instagram" href="https://www.instagram.com/dream_theme_photo/" target="_blank" class="instagram" style="visibility: visible;">
-            <span class="soc-font-icon"></span>
-            <span class="screen-reader-text">Instagram</span>
+            </a> --}}
+            <a title="Instagram" href="https://www.instagram.com/dream_theme_photo/" class="btn mb-1 btn-instagram" target="_blank">
+                  <span class="fa fa-instagram"></span>         
             </a>
         </div>       
     </div>
