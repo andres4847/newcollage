@@ -12,7 +12,6 @@
     {!! Html::style("css/bootstrap-social.css") !!}  
     {!! Html::style("css/font-awesome.min.css") !!}  
     {!! Html::style("css/custom.css") !!}  
-
    
     @yield('page-styles')
 
@@ -34,6 +33,8 @@
 
     {!! Html::script("js/jquery.min.js") !!}  
     {!! Html::script("js/bootstrap.min.js") !!}  
+    
+    @yield('page-script')
 
   
 </body>
